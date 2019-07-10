@@ -1,0 +1,1 @@
+Friends - I have an Oracle 11g DB with Apex 18.1. There is a procedure which creates a word document.I need to send this document to Docusign.Do you know hwhich DocuSign API  I need to use and how to call it from Oracle 11g DB ?
